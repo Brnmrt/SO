@@ -112,6 +112,3 @@ To remove the compiled executables and object files, run:
 ```sh
 make clean
 ```
-
-```
-```
